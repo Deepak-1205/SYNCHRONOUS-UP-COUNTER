@@ -28,7 +28,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-1.Type the Verilog program in Quartus Prime to implement the 4-bit Serial-In Serial Out (SISO) Shift Register.
+1.Type the Verilog program in Quartus Prime to implement the4 bit synchronous up counter and validate functionality.
 
 2.Compile and run the program to ensure the design is error-free. 
 
@@ -65,4 +65,4 @@ RegisterNumber: 24007248
 
 **RESULTS**
 
-Thus, the Serial-In Serial-Out (SISO) Shift Register is implemented using Verilog, and its functionality is validated with the truth table and timing diagrams
+Thus, the 4 bit synchronous up counter and validate functionality is implemented using Verilog, and its functionality is validated with the truth table and timing diagrams
