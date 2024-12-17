@@ -28,7 +28,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-1.Type the Verilog program in Quartus Prime to implement the4 bit synchronous up counter and validate functionality.
+1.Type the Verilog program in Quartus Prime to implement the 4 bit synchronous up counter and validate functionality.
 
 2.Compile and run the program to ensure the design is error-free. 
 
